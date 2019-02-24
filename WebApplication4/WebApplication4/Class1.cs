@@ -9,5 +9,6 @@ namespace WebApplication4
     {
         public int x =0;
         public int MyProperty { get; set; }
+        public int MyProperty2 { get; set; }
     }
 }
